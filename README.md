@@ -39,8 +39,8 @@ Si deseas bajar el proyecyo te dejo las siguientes recomendaciones:
   - Ahora disfruta y prueba todas sus funcionalidades 
 
 
-- Imagen de la visual de la App
+  Imagen de la visual de la App
 ![Captura de pantalla app gym](https://github.com/AtirriDev/FinalLab2/assets/147408803/8e5a2a7d-3245-4e32-ba2e-b2db51f0551b)
 
-- Dejo video de la app en funcionamiento :
+- Link del video de la app en funcionamiento :
   https://www.youtube.com/watch?v=Q2EtIHqWz8c&t=16s
