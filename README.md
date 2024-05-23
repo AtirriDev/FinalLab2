@@ -30,13 +30,13 @@ Interfaz gráfica: Windows Forms
 
 Si deseas bajar el proyecyo te dejo las siguientes recomendaciones:
  
-  1- Descargar el archivo .rar
-  2- Abrir en visual studio mediante archivo "App_Final_Lab2.sln" 
-  3- Ya en visual studio ejecutar la aplicacion , va a fallar pero no te asustes , esto es por que no tiene la base de datos cargada
-  4- Una vez ejecutado se va a crear la carpeta bin que es donde vamos a poner la base de datos la cual esta en el proyecto
-  5- Busca la base de datos se llama "BD_Clientes.mdb" , copiarla y pegarla en bin/debug
-  6- vuelve a ejecutar el archivo  y ahora si la app va a estar funcionando perfectamente 
-  7- Ahora disfruta y prueba todas sus funcionalidades 
+  - Descargar el archivo .rar
+  - Abrir en visual studio mediante archivo "App_Final_Lab2.sln" 
+  - Ya en visual studio ejecutar la aplicacion , va a fallar pero no te asustes , esto es por que no tiene la base de datos cargada
+  - Una vez ejecutado se va a crear la carpeta bin que es donde vamos a poner la base de datos la cual esta en el proyecto
+  - Busca la base de datos se llama "BD_Clientes.mdb" , copiarla y pegarla en bin/debug
+  - vuelve a ejecutar el archivo  y ahora si la app va a estar funcionando perfectamente 
+  - Ahora disfruta y prueba todas sus funcionalidades 
 
 
 - Imagen de la visual de la App
